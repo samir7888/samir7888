@@ -1,5 +1,5 @@
 Hi👋<br>
-i am Sameer Basnet<br>
+I'm Sameer Basnet<br>
 I love coding,making,developing,hunting with funn<br>
 
 

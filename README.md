@@ -16,4 +16,4 @@ I love coding,making,developing,hunting with funn<br>
 
 <h1>Databases</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3)](https://skillicons.dev)

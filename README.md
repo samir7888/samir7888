@@ -5,7 +5,7 @@ I love coding,making,developing,hunting with funn<br>
 
 
 - 🔭 I’m currently working on full stack dev
-- 🌱 I’m currently learning backend
+
 <br><br>
 <h1>Languages</h1><br>
 

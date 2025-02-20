@@ -1,7 +1,6 @@
 Hi👋<br>
 I'm Sameer Basnet<br>
 I love coding,making,developing,hunting with funn<br>
-
 - 🔭 I’m currently working on full stack dev
 
 <br><br>

@@ -1,6 +1,6 @@
 Hi👋<br>
 
-
+![](https://komarev.com/ghpvc/?username=samir7888)
 <br><br>
 <h1>Languages</h1><br>
 

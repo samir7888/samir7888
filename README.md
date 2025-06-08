@@ -12,3 +12,6 @@ Hi👋<br>
 <h1>Databases</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=3)](https://skillicons.dev)
+
+
+currently learning solana web3 Blockchain

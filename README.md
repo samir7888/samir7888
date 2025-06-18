@@ -1,6 +1,6 @@
 Hi👋<br>
 
-https://github-readme-stats.vercel.app/api?username=samir7888
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samir7888)](https://github.com/samir7888/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=samir7888)
 <br><br>

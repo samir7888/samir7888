@@ -1,5 +1,7 @@
 Hi👋<br>
 
+https://github-readme-stats.vercel.app/api?username=samir7888
+
 ![](https://komarev.com/ghpvc/?username=samir7888)
 <br><br>
 <h1>Languages</h1><br>
